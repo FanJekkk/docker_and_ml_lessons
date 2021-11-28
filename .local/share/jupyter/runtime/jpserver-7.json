@@ -6,7 +6,7 @@
   "port": 8888,
   "root_dir": "/home/jovyan",
   "secure": false,
-  "token": "5245c32775fbfb7156aa0cfb1326f9738e8c8979a04d0630",
+  "token": "d0c36af8b67b40c5408d3014459ae18505aed63aa531b5c9",
   "url": "http://0.0.0.0:8888/",
   "version": "1.8.0"
 }
